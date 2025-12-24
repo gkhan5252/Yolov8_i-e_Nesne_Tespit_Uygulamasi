@@ -1,0 +1,1 @@
+# Yolov8_i-e_Nesne_Tespit_Uygulamasi
